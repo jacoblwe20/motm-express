@@ -1,0 +1,24 @@
+{
+  "name": "motm-express",
+  "version": "0.0.0",
+  "description": "Module of the Month demo express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://"
+  },
+  "keywords": [
+    "express",
+    "web",
+    "motm"
+  ],
+  "author": "Jacob Lowe (http://jcbl.ws)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "~3.5.1",
+    "hbs": "~2.6.0"
+  }
+}
